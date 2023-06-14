@@ -27,7 +27,7 @@ header li{
 }
 img{
     height: 25vw;
-    margin-left:25vw; 
+    margin-left: 25vw;
     margin-right: 5vw;
     box-shadow: -8px 8px 15px #44676c;
 
@@ -36,12 +36,21 @@ ul,li{
     display: inline-block;
     color:#558288;
 }
-.btn{
-    font-size: 16px;  
+
+.btn1,.btn2,.btn3,.btn4,.btn5,.btn6,.btn7{
+    font-size: 16px; 
     border: none;
     outline: none;
-    padding: 2vw 2.3vw;
+    padding: 1.5vw 2.3vw;
     margin: 0;
     background-color: inherit;
     color:#44676c;
+}
+button:hover{
+    cursor: pointer;
+    color: #819fa4;
+    transition: 8px;
+}
+.btnact{
+    border-bottom: 2px solid #44676c;
 }
