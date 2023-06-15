@@ -13,11 +13,11 @@
     -ms-touch-action: manipulation;
     touch-action: manipulation;
 }
-@media only screen and (max-width: 480px) {
-    .nav{
-        height: 20px;
+@media screen and (max-width: 600px) {
+    .btn1,.btn2,.btn3,.btn4,.btn5,.btn6,.btn7{
+        font-size: 2rem; 
     }
- }
+}
 body{
     background-color: #c9e4ca;
 }
@@ -70,8 +70,10 @@ button:hover{
     transition: 8px;
 }
 
+
 .btnact{
     border-bottom: 0.25vw solid #44676c;
+    color: #819fa4;
 }
 #content{
     padding-top: 2.3vw;
@@ -80,3 +82,5 @@ button:hover{
     text-align: center;
     font-size: 1rem;
 }
+
+
