@@ -12,9 +12,9 @@ body{
     background-color: #c9e4ca;
 }
 header{
-    width: 100vw;
+    width: 100%;
     background-color: #558288;
-    height: 30vw;
+    height: 25rem;
     display: flex;
     align-items: center;
     border: none;
@@ -27,7 +27,7 @@ header li{
     margin-right: 1vw;
 }
 img{
-    height: 25vw;
+    height: 20rem;
     /* margin-left: 25vw; */
     margin-right: 5vw;
     box-shadow: -0.6vw 0.6vw 1.5vw #44676c;
@@ -43,7 +43,7 @@ ul,li{
     top: 0;
 }
 .btn1,.btn2,.btn3,.btn4,.btn5,.btn6,.btn7{
-    font-size: 1.3vw; 
+    font-size: 1rem; 
     border: none;
     outline: none;
     padding: 1.2vw 2.3vw;
@@ -66,3 +66,5 @@ button:hover{
 .abtme,.edu,.skills,.achiv,.expe{
     text-align: center;
 }
+
+
