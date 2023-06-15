@@ -104,9 +104,11 @@ button:hover{
     padding: 0.3rem 1.2rem;
     border: 0.1rem solid #bcc993;
     border-radius: .4rem;
+    color:#bcc993;
 }
 .cv:hover{
     background: rgba(188, 201, 147, 0.2);
+    color:#bcc993;
 }
 .cv:active{
     background: rgba(188, 201, 147, 0.5);
@@ -114,7 +116,6 @@ button:hover{
 
 a{
     text-decoration: none;
-    color: #bcc993;
 }
 @media all and (max-width: 800px) {
     .abtme,.edu,.skills,.achiv,.expe{
