@@ -49,7 +49,7 @@ h1{
     font-size: 1.3rem;
 }
 .icons{
-    margin-top: 20%; 
+    margin-top: 10%; 
     font-size: 1.3rem;
 }
 ul,li{
@@ -68,7 +68,7 @@ ul,li{
     font-size: 1rem; 
     border: none;
     outline: none;
-    padding: 1.2vw 2.3vw;
+    padding: .8vw 2.3vw;
     margin: 0;
     background-color: inherit;
     color:#44676c;
@@ -91,8 +91,31 @@ button:hover{
     text-align: center;
     font-size: 1rem;
 }
+#name{
+    margin-top: 4rem;
+}
+#cv{
+    position: flex;
+    margin-top: 3rem;
+    margin-bottom: 0rem;
+}
+.cv{
+    background-color: transparent;
+    padding: 0.3rem 1.2rem;
+    border: 0.1rem solid #bcc993;
+    border-radius: .4rem;
+}
+.cv:hover{
+    background: rgba(188, 201, 147, 0.2);
+}
+.cv:active{
+    background: rgba(188, 201, 147, 0.5);
+}
 
-
+a{
+    text-decoration: none;
+    color: #bcc993;
+}
 @media all and (max-width: 800px) {
     .abtme,.edu,.skills,.achiv,.expe{
         text-align: center;
@@ -100,25 +123,37 @@ button:hover{
     }
     .btn1,.btn2,.btn3,.btn4,.btn5,.btn6,.btn7{
         font-size: .7rem;
-        padding: 0.3rem 0.5rem;
+        padding: .3rem .5rem;
     }
     header{
         width: 100vw;
-        height: 10rem;
+        height: 12rem;
+    }
+    #name{
+        margin-top: 2rem;
     }
     .top{
-        font-size: 1rem;
+        font-size: .8rem;
     }
     h1{
-        font-size: 1.5rem;
+        font-size: 1.2rem;
     }
     img{
-        height: 8rem;
+        height: 10rem;
     }
     .icons{
         font-size: 1rem;
+        margin-top: 5%;
     }
     .btnact{
         border-bottom: 0.5vw solid #44676c;
+    }
+    #cv{
+        margin-top:1.3rem;
+        position: flex;
+    }
+    .cv{
+        font-size: .58rem;
+        padding: 0.23rem .75rem;
     }
 }
