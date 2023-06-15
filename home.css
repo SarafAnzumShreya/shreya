@@ -100,7 +100,7 @@ button:hover{
     }
     .btn1,.btn2,.btn3,.btn4,.btn5,.btn6,.btn7{
         font-size: .7rem;
-        padding: .3rem 0rem;
+        padding: 0.3rem 0.8rem;
     }
     header{
         width: 100vw;
@@ -117,5 +117,8 @@ button:hover{
     }
     .icons{
         font-size: 1rem;
+    }
+    .btnact{
+        border-bottom: 0.5vw solid #44676c;
     }
 }
