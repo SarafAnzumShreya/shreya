@@ -13,11 +13,7 @@
     -ms-touch-action: manipulation;
     touch-action: manipulation;
 }
-@media screen and (max-width: 600px) {
-    .btn1,.btn2,.btn3,.btn4,.btn5,.btn6,.btn7{
-        font-size: 2rem; 
-    }
-}
+
 body{
     background-color: #c9e4ca;
 }
@@ -41,7 +37,20 @@ img{
     /* margin-left: 25vw; */
     margin-right: 5vw;
     box-shadow: -0.6vw 0.6vw 1.5vw #44676c;
-
+}
+h1{
+    color:#bcc993; 
+    text-align: left; 
+    font-size: 3rem;
+}
+.top{
+    color:#c9e4ca; 
+    text-align: left; 
+    font-size: 1.3rem;
+}
+.icons{
+    margin-top: 20%; 
+    font-size: 1.3rem;
 }
 ul,li{
     display: inline-block;
@@ -84,3 +93,28 @@ button:hover{
 }
 
 
+@media all and (max-width: 800px) {
+    .abtme,.edu,.skills,.achiv,.expe{
+        text-align: center;
+        font-size: 1.5em;
+    }
+    .btn1,.btn2,.btn3,.btn4,.btn5,.btn6,.btn7{
+        font-size: .7rem;
+    }
+    header{
+        width: 100vw;
+        height: 10rem;
+    }
+    .top{
+        font-size: 1rem;
+    }
+    h1{
+        font-size: 1.5rem;
+    }
+    img{
+        height: 8rem;
+    }
+    .icons{
+        font-size: 1rem;
+    }
+}
