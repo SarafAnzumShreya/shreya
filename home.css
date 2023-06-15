@@ -96,7 +96,7 @@ button:hover{
 @media all and (max-width: 800px) {
     .abtme,.edu,.skills,.achiv,.expe{
         text-align: center;
-        font-size: 1em;
+        font-size: 1rem;
     }
     .btn1,.btn2,.btn3,.btn4,.btn5,.btn6,.btn7{
         font-size: .7rem;
