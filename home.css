@@ -13,6 +13,11 @@
     -ms-touch-action: manipulation;
     touch-action: manipulation;
 }
+@media only screen and (max-width: 480px) {
+    .nav{
+        height: 20px;
+    }
+ }
 body{
     background-color: #c9e4ca;
 }
@@ -43,6 +48,9 @@ ul,li{
     color:#558288;
 }
 .nav{
+    display: flex; 
+    justify-content: center; 
+    background-color: #c2cf98;
     position: -webkit-sticky;
     position: sticky;
     top: 0;
@@ -70,6 +78,5 @@ button:hover{
 }
 .abtme,.edu,.skills,.achiv,.expe{
     text-align: center;
+    font-size: 1rem;
 }
-
-
