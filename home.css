@@ -18,6 +18,7 @@ header{
     display: flex;
     align-items: center;
     border: none;
+    justify-content:center ;
 }
 header span{
     color:#c9e4ca;
@@ -27,7 +28,7 @@ header li{
 }
 img{
     height: 25vw;
-    margin-left: 25vw;
+    /* margin-left: 25vw; */
     margin-right: 5vw;
     box-shadow: -0.6vw 0.6vw 1.5vw #44676c;
 
