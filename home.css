@@ -54,7 +54,6 @@ h1{
 }
 ul,li{
     display: inline-block;
-    color:#558288;
 }
 .nav{
     display: flex; 
@@ -121,8 +120,14 @@ a{
     text-decoration: none;
 }
 .pfp1{
-    margin-left: 4rem;
+    margin-left: 2rem;
     height: 12rem;
+    box-shadow: none;
+    margin-right: 0px;
+}
+.rvmpic{
+    margin-left: 2rem;
+    height: 15rem;
     box-shadow: none;
     margin-right: 0px;
 }
@@ -137,12 +142,13 @@ a{
 .table th, .table td{
     background-color: #b3d6b4;
 }
-.edu b{
+.date{
     background-color: #b3d6b4 ;
     color:#558288;
-    padding:.2rem .5rem ;
+    font-size: larger;
+    /* padding:.2rem .5rem ; */
 }
-.edualign{
+.edualign, .tech-content{
     display: inline-block;
     width: 100%;
 }
@@ -157,12 +163,26 @@ a{
 .fir,.third{
     display: inline-block;
 }
-.edu table,.edu tr,.edu td{
-    padding-bottom: 4rem;
-    border: none;
-}
+
+.tech .content li button{
+    background-color: transparent;
+    padding: 0.3rem 1.2rem;
+    margin-top: 0.3rem;
+    border: 0.1rem solid #44676c;
+    border-radius: .4rem;
+    color:#44676c;
 }
 
+table tr b, .p-content b{
+    color:rgba(0, 0, 0, 0.715);
+    background-color: transparent;
+}
+.project ul{
+    display: list-item;
+    list-style-position: outside;
+    list-style-type: disc;
+}
+}
 
 
 
