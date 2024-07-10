@@ -1,91 +1,73 @@
-$(document).ready(function(){
-    // $(".btn").click(function(){
-    //   $("this").addClass("btnact");
-      
-    // });
-    $(".edu").hide();
-    $(".skills").hide();
-    $(".expe").hide();
-    $(".achiv").hide();
-    $(".abtme").show();
-    $(".btn1").click(function() {
-        // remove classes from all
-        $(".btn2").removeClass("btnact");
-        $(".btn3").removeClass("btnact");
-        $(".btn4").removeClass("btnact");
-        $(".btn5").removeClass("btnact");
-        $(".edu").hide();
-        $(".skills").hide();
-        $(".expe").hide();
-        $(".achiv").hide();
-        // add class to the one we clicked
-        $(this).addClass("btnact");
-        $(".abtme").show();
-        // stop the page from jumping to the top
-        return false;
-    });
-    $(".btn2").click(function() {
-        // remove classes from all
-        $(".btn1").removeClass("btnact");
-        $(".btn3").removeClass("btnact");
-        $(".btn4").removeClass("btnact");
-        $(".btn5").removeClass("btnact");
-        $(".abtme").hide();
-        $(".skills").hide();
-        $(".expe").hide();
-        $(".achiv").hide();
-        // add class to the one we clicked
-        $(this).addClass("btnact");
-        $(".edu").show();
-        // stop the page from jumping to the top
-        return false;
-    });
-    $(".btn3").click(function() {
-        // remove classes from all
-        $(".btn2").removeClass("btnact");
-        $(".btn1").removeClass("btnact");
-        $(".btn4").removeClass("btnact");
-        $(".btn5").removeClass("btnact");
-        $(".edu").hide();
-        $(".abtme").hide();
-        $(".expe").hide();
-        $(".achiv").hide();
-        // add class to the one we clicked
-        $(this).addClass("btnact");
-        $(".skills").show();
-        // stop the page from jumping to the top
-        return false;
-    });
-    $(".btn4").click(function() {
-        // remove classes from all
-        $(".btn1").removeClass("btnact");
-        $(".btn3").removeClass("btnact");
-        $(".btn2").removeClass("btnact");
-        $(".btn5").removeClass("btnact");
-        $(".abtme").hide();
-        $(".skills").hide();
-        $(".edu").hide();
-        $(".expe").hide();
-        // add class to the one we clicked
-        $(this).addClass("btnact");
-        $(".achiv").show();
-        // stop the page from jumping to the top
-        return false;
-    });
-    $(".btn5").click(function() {
-        // remove classes from all
-        $(".btn1").removeClass("btnact");
-        $(".btn3").removeClass("btnact");
-        $(".btn2").removeClass("btnact");
-        $(".btn4").removeClass("btnact");
-        $(".abtme").hide();
-        $(".skills").hide();
-        $(".edu").hide();
-        $(".achiv").hide();
-        // add class to the one we clicked
-        $(this).addClass("btnact");
-        $(".expe").show();
-        // stop the page from jumping to the top
-        return false;
-    });
-});
+window.onload = function() {
+    showMe_js();
+  }
+
+function showMe_js(){
+    document.querySelector(".abtme").style.display="block";
+    document.querySelector(".edu").style.display="none";
+    document.querySelector(".skills").style.display="none";
+    document.querySelector(".achiv").style.display="none";
+    document.querySelector(".expe").style.display="none";
+
+    document.querySelector(".btn1").classList.add("btnact");
+    document.querySelector(".btn2").classList.remove("btnact");
+    document.querySelector(".btn3").classList.remove("btnact");
+    document.querySelector(".btn4").classList.remove("btnact");
+    document.querySelector(".btn5").classList.remove("btnact");
+}
+
+function edu_js(){
+    document.querySelector(".abtme").style.display="none";
+    document.querySelector(".edu").style.display="block";
+    document.querySelector(".skills").style.display="none";
+    document.querySelector(".achiv").style.display="none";
+    document.querySelector(".expe").style.display="none";
+
+    document.querySelector(".btn1").classList.remove("btnact");
+    document.querySelector(".btn2").classList.add("btnact");
+    document.querySelector(".btn3").classList.remove("btnact");
+    document.querySelector(".btn4").classList.remove("btnact");
+    document.querySelector(".btn5").classList.remove("btnact");
+}
+
+function skills_js(){
+    document.querySelector(".abtme").style.display="none";
+    document.querySelector(".edu").style.display="none";
+    document.querySelector(".skills").style.display="block";
+    document.querySelector(".achiv").style.display="none";
+    document.querySelector(".expe").style.display="none";
+
+    document.querySelector(".btn1").classList.remove("btnact");
+    document.querySelector(".btn2").classList.remove("btnact");
+    document.querySelector(".btn3").classList.add("btnact");
+    document.querySelector(".btn4").classList.remove("btnact");
+    document.querySelector(".btn5").classList.remove("btnact");
+}
+
+function achiv_js(){
+    document.querySelector(".abtme").style.display="none";
+    document.querySelector(".edu").style.display="none";
+    document.querySelector(".skills").style.display="none";
+    document.querySelector(".achiv").style.display="block";
+    document.querySelector(".expe").style.display="none";
+
+    document.querySelector(".btn1").classList.remove("btnact");
+    document.querySelector(".btn2").classList.remove("btnact");
+    document.querySelector(".btn3").classList.remove("btnact");
+    document.querySelector(".btn4").classList.add("btnact");
+    document.querySelector(".btn5").classList.remove("btnact");
+}
+
+function expe_js(){
+    document.querySelector(".abtme").style.display="none";
+    document.querySelector(".edu").style.display="none";
+    document.querySelector(".skills").style.display="none";
+    document.querySelector(".achiv").style.display="none";
+    document.querySelector(".expe").style.display="block";
+
+    document.querySelector(".btn1").classList.remove("btnact");
+    document.querySelector(".btn2").classList.remove("btnact");
+    document.querySelector(".btn3").classList.remove("btnact");
+    document.querySelector(".btn4").classList.remove("btnact");
+    document.querySelector(".btn5").classList.add("btnact");
+}
