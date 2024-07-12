@@ -198,7 +198,7 @@ table tr b, .p-content b{
     .btn1,.btn2,.btn3,.btn4,.btn5,.btn6,.btn7{
         font-size: .8rem;
         padding: .3rem .5rem;
-        border-bottom: 0.25vw solid #c2cf98;
+        border-bottom: 0.5vw solid #c2cf98;
     }
     header{
         width: 100vw;
