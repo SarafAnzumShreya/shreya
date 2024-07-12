@@ -192,7 +192,7 @@ table tr b, .p-content b{
     .abtme,.edu,.skills,.achiv,.expe{
         text-align: justify;
         font-size: .7rem;
-        margin-left: 0 1rem 0 1rem;
+        margin: 0 1rem 0 1rem;
     }
     .btn1,.btn2,.btn3,.btn4,.btn5,.btn6,.btn7{
         font-size: .8rem;
