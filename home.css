@@ -193,6 +193,7 @@ table tr b, .p-content b{
         text-align: justify;
         font-size: .7rem;
         margin-left: 1rem;
+        margin-right: 1rem;
     }
     .btn1,.btn2,.btn3,.btn4,.btn5,.btn6,.btn7{
         font-size: .8rem;
