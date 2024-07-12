@@ -82,6 +82,7 @@ button:hover{
 .btnact{
     border-bottom: 0.25vw solid #44676c;
     color: #819fa4;
+    transition-duration: 400ms;
 }
 #content{
     padding: 3rem 15rem;
@@ -220,6 +221,7 @@ table tr b, .p-content b{
     }
     .btnact{
         border-bottom: 0.5vw solid #44676c;
+        transition-duration: 400ms;
     }
     #cv{
         margin-top:1.3rem;
