@@ -1,5 +1,27 @@
-<div style="margin: 20px 0;">
-  <a href="javascript:history.back()" class="btn btn-outline-primary">
-    ← Back
-  </a>
-</div>
+<!-- Back Button -->
+<a href="javascript:history.back()" class="back-btn">
+  ←
+</a>
+
+<style>
+.back-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px;        /* circle width */
+  height: 50px;       /* circle height */
+  border-radius: 50%; /* makes it circular */
+  border: 2px solid #007bff; /* border color */
+  background-color: white;   /* inside color */
+  color: #007bff;            /* arrow color */
+  text-decoration: none;
+  font-size: 24px;           /* arrow size */
+  transition: all 0.2s ease;
+}
+
+.back-btn:hover {
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+}
+</style>

@@ -1,4 +1,6 @@
 {{ define "main" }}
   {{ partial "back-button.html" . }}
-  {{ .Content }}
+  {{ block "main_content" . }}
+    {{ partial "main" . }}
+  {{ end }}
 {{ end }}
