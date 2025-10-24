@@ -7,7 +7,7 @@ design:
   spacing: '5rem'
 
 sections:
-  - block: accomplishments
+  - block: features
     content:
       title: "Licenses & Certificates"
       subtitle: ""
