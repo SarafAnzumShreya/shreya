@@ -171,21 +171,7 @@ awards:
     awarder: Various
     icon: hero/code
     summary: |
-      Participated in multiple competitive programming contests, improving algorithmic problem-solving and logical thinking.
-      Collaborated in team-based competitions, strengthening teamwork and strategic coding abilities.
-
-# Certifications (optional, can be added as awards or custom section)
-certifications:
-  - title: Advanced Learning Algorithms
-    organization: DeepLearning.AI, Stanford University
-    date: '2025-01-01'
-    credential_id: 6T7KI3YQGJN0
-  - title: Supervised Machine Learning: Regression and Classification
-    organization: DeepLearning.AI, Stanford University
-    date: '2024-11-01'
-    credential_id: Y9815S6QCI3W
+      Recognized for contributions to scaling laws in deep learning.
 ---
 
-Saraf Anzum Shreya is a B.Sc. student in Electronics & Telecommunication Engineering at Rajshahi University of Engineering & Technology (RUET), Dhaka, Bangladesh, with a CGPA of 3.41/4.00. She has authored multiple conference papers on deep learning applications in medical imaging and NGO management, and excels in web development, machine learning, and electronics projects. As an independent artist on Redbubble since 2020, she designs unique merchandise. Outside of academics, she participates in tech competitions like Huawei Seeds For The Future and enjoys competitive programming.
-
-Contact: House 23, Sector 03, Uttara, Dhaka - 1230, Bangladesh | (880) 1824 332236 | sasshreya2001@gmail.com
+Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
