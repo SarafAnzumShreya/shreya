@@ -1,12 +1,18 @@
 {{ define "main" }}
   {{ partial "back-button.html" . }}
 
+  {{ $ := . }} {{/* define $ as page context */}}
+
   {{ if .Content }}
-    {{ .Content }}
+    <div class="page-content">
+      {{ .Content }}
+    </div>
   {{ end }}
 
-  {{/* Keep your blocks/cards rendering here */}}
-  {{ range .Params.sections }}
-    {{ partial "functions/parse_block_v3" (dict "page" $ "block" .) }}
+  {{/* Render all sections (features, collections, etc.) */}}
+  {{ if .Params.sections }}
+    {{ range .Params.sections }}
+      {{ partial "functions/parse_block_v3" (dict "page" $ "block" .) }}
+    {{ end }}
   {{ end }}
 {{ end }}
