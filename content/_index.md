@@ -11,10 +11,8 @@ design:
 sections:
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ''
-      # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
         url: uploads/resume.pdf
@@ -23,18 +21,16 @@ sections:
         education: 'Education'
         interests: 'Research Interests'
     design:
-      # Apply a gradient background
       css_class: hbx-bg-gradient
-      # Avatar customization
       avatar:
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
+        size: medium
+        shape: circle
   - block: markdown
     content:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am passionate about applying machine learning to real-world challenges. My focus lies in deep learning, particularly convolutional neural networks (CNNs) for medical imaging, such as brain tumor detection and white blood cell analysis, as well as assistive technologies like real-time currency detection for the visually impaired. I also explore hybrid models and digitization for societal impact.
+        I am a B.Sc. student in Electronics & Telecommunication Engineering at Rajshahi University of Engineering & Technology (RUET), passionate about applying machine learning to real-world challenges. My focus lies in deep learning, particularly convolutional neural networks (CNNs) for medical imaging, such as brain tumor detection and white blood cell analysis, as well as assistive technologies like real-time currency detection for the visually impaired. I also explore hybrid models and digitization for societal impact.
 
         Please reach out to collaborate or discuss my work! 😃
     design:
@@ -64,9 +60,9 @@ sections:
     id: talks
     content:
       title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - events
+    filters:
+      folders:
+        - events
     design:
       view: card
   - block: collection
@@ -75,11 +71,8 @@ sections:
       title: Recent News
       subtitle: ''
       text: ''
-      # Page type to display. E.g. post, talk, publication...
       page_type: blog
-      # Choose how many pages you would like to display (0 = all pages)
       count: 5
-      # Filter on criteria
       filters:
         author: ''
         category: ''
@@ -88,14 +81,10 @@ sections:
         exclude_future: false
         exclude_past: false
         publication_type: ''
-      # Choose how many pages you would like to offset by
       offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
       order: desc
     design:
-      # Choose a layout view
       view: card
-      # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
   - block: cta-card
@@ -108,6 +97,6 @@ sections:
         url: ''
     design:
       card:
-        css_class: ''
+        css_class: 'bg-primary-300 dark:bg-primary-700'
         css_style: ''
 ---
