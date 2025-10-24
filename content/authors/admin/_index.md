@@ -9,7 +9,6 @@ name_pronunciation: ''
 # Full name (for SEO)
 first_name: Saraf Anzum
 last_name: Shreya
-font-size: s
 
 # Pronouns (optional)
 pronouns: she/her
