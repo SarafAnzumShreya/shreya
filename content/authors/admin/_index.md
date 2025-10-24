@@ -56,7 +56,7 @@ interests:
   - Competitive Programming
 
 education:
-  - area: B.Sc. in Electronics & Telecommunication Engineering
+  - area: B.Sc. ETE
     institution: Rajshahi University of Engineering & Technology
     icon: ""
     date_start: 2022-01-01
@@ -64,6 +64,14 @@ education:
     summary: |
       CGPA: 3.41/4.00 (Completed 6 out of 8 semesters)
       Best SGPA: 3.83/4.00 (6th semester)
+
+  - area: Higher School Cirtificate 
+    institution: Dhaka Cantonment Girls' Public School & College
+    icon: ""
+    date_start: 2020-01-01
+    date_end: 2018-01-01
+    summary: |
+      GPA: 5.00/5.00 
 
 work:
   - position: Independent Artist/Graphic Designer
