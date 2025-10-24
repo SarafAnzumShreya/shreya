@@ -20,6 +20,8 @@ Being selected for the **Huawei Seeds for the Future 2025 program** was a tremen
 
 The program emphasized **AI, 5G, Cloud Computing, Digital Power**, and leadership in technology. Over **40 hours of expert-led instruction**, we were constantly challenged to develop **problem-solving, entrepreneurship, and team collaboration skills**.
 
+{{< figure src="2.jpg" caption="Group Photo with the Team" >}}
+
 ---
 
 ## The Selection Process
@@ -34,8 +36,7 @@ The program emphasized **AI, 5G, Cloud Computing, Digital Power**, and leadershi
    Candidates were monitored continuously throughout the sessions, including **skill assessments, interactions, and teamwork exercises**.  
    The **selection for the final 21 participants was based primarily on individual performance**, with approximately **70% of the marks coming from individual assessments** such as exams, interviews, and personal contributions.  
 
-*Judges Panel*
-![Judges Panel](j.jpg)
+{{< figure src="j.jpg" caption="Judges Panel" >}}
 
 ---
 
@@ -46,11 +47,8 @@ We were assigned to teams and challenged to come up with a **tech-based startup 
 We brainstormed, created slides, planned the model, and presented our idea to judges. This stage evaluated **teamwork, leadership, and presentation skills**, and we were **selected as the best team**!  
 
 {{< figure src="b1.jpg" caption="Brainstorming Session" >}}
-
-![Brainstorming Session](b1.jpg)
-*Brainstorming Session*
-![Team Presentation to Judges (1st stage)](p1.jpg) *Team Presentation to Judges (1st stage)*
-![Team Presentation to Judges (2nd stage)](p1team2.jpg)*Team Presentation to Judges (2nd stage)*
+{{< figure src="p1.jpg" caption="Team Presentation to Judges (1st stage)" >}}
+{{< figure src="p1team2.jpg" caption="Team Presentation to Judges (2nd stage)" >}}
 
 ---
 
@@ -58,14 +56,12 @@ We brainstormed, created slides, planned the model, and presented our idea to ju
 
 In the second stage, the **21 finalists were reassigned** to new teams and given another project challenge.  
 
-![With 2nd Team Members](2ndteam.jpg)*With 2nd Team Members*
+{{< figure src="2ndteam.jpg" caption="With 2nd Team Members" >}}
 
 We presented our new ideas at the end of the stage, and **the top 8 teams were chosen to attend the regional round in China**. Unfortunately, I did not make it to the regional round, but the experience was **incredibly valuable**, providing insights into project management, innovation, and collaboration at a high level.  
 
-![Workshop Session](featured.jpg)
-*Workshop Session*
-![Teamwork Exercise](b2.jpg)
-*Teamwork Exercise*
+{{< figure src="featured.jpg" caption="Workshop Session" >}}
+{{< figure src="b2.jpg" caption="Teamwork Exercise" >}}
 
 ---
 
@@ -78,7 +74,7 @@ Throughout the program, we had **mentorship from Huawei professionals**, learnin
 - Technical skills in **AI, cloud computing, and digital solutions**  
 - Continuous **skill evaluation and feedback**
 
-![Mentorship Session](session.jpg)
+{{< figure src="session.jpg" caption="Mentorship Session" >}}
 
 ---
 
@@ -90,12 +86,10 @@ Throughout the program, we had **mentorship from Huawei professionals**, learnin
 
 ---
 
-![Price Giving Ceremony](2.jpg)
+{{< figure src="2.jpg" caption="Prize Giving Ceremony" >}}
 
 ## Next Steps
 
 Inspired by this program, I aim to continue **developing AI-driven healthcare solutions** and publish research that combines technical innovation with **real-world social impact**.  
 
 ---
-
-<!-- ## Did you find this story inspiring? Share it with your network! 🙌 -->
