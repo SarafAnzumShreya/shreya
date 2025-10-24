@@ -34,8 +34,8 @@ The program emphasized **AI, 5G, Cloud Computing, Digital Power**, and leadershi
    Candidates were monitored continuously throughout the sessions, including **skill assessments, interactions, and teamwork exercises**.  
    The **selection for the final 21 participants was based primarily on individual performance**, with approximately **70% of the marks coming from individual assessments** such as exams, interviews, and personal contributions.  
 
-![Judges Panel](j.jpg)
 *Judges Panel*
+![Judges Panel](j.jpg)
 
 ---
 
@@ -92,6 +92,8 @@ Throughout the program, we had **mentorship from Huawei professionals**, learnin
 - Rapid **idea generation, planning, and presentation** are crucial skills in tech entrepreneurship.  
 
 ---
+
+![Price Giving Ceremony](2.jpg)
 
 ## Next Steps
 
