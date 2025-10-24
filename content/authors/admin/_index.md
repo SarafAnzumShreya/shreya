@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Saraf Anzum Shreya
+title_class: display-name-md
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -56,7 +57,7 @@ interests:
   - Competitive Programming
 
 education:
-  - area: B.Sc. ETE
+  - area: B.Sc. in ETE
     institution: Rajshahi University of Engineering & Technology
     icon: ""
     date_start: 2022-01-01
