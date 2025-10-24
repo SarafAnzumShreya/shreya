@@ -44,7 +44,7 @@ profiles:
     url: https://scholar.google.com/citations?hl=en&user=lA1h6EAAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0009-0005-3809-1627
-  - icon: globe
+  - icon: shopping-bag
     url: https://www.redbubble.com/people/taylor-shreya/shop
     label: Redbubble Shop
 
