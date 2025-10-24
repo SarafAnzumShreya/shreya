@@ -6,6 +6,7 @@ date: 2025-10-24
 sections:
   - block: features
     content:
+      username: admin
       title: "Licenses & Certificates"
       subtitle: ""
       text: "A visual showcase of my academic and professional certifications."
@@ -14,7 +15,7 @@ sections:
           text: "DeepLearning.AI, Stanford University — Issued Jan 2025  
           Credential ID: 6T7KI3YQGJN0"
           image:
-            filename: "advanced-learning-algo.jpg"
+            filename: "certificates/certificate2.jpg"
             alt: "Advanced Learning Algorithms Certificate"
           url: "https://www.coursera.org/account/accomplishments/certificate/6T7KI3YQGJN0"
 
@@ -22,26 +23,26 @@ sections:
           text: "DeepLearning.AI, Stanford University — Issued Nov 2024  
           Credential ID: Y9815S6QCI3W"
           image:
-            filename: "supervised-ml.jpg"
+            filename: "certificates/certificate1.jpg"
             alt: "Supervised Machine Learning Certificate"
           url: "https://www.coursera.org/account/accomplishments/certificate/Y9815S6QCI3W"
 
         - title: "Huawei Seeds for the Future 2025"
           text: "Selected among top 22 nationwide finalists in AI and digital transformation leadership."
           image:
-            filename: "huawei.jpg"
+            filename: "certificates/huawei.jpg"
             alt: "Huawei Seeds for the Future Certificate"
 
         - title: "Brain Station 23 Internship"
           text: "Completed a 2-week internship on web scraping and backend development using BeautifulSoup and Selenium."
           image:
-            filename: "brainstation23.jpg"
+            filename: "certificates/brainstation23.jpg"
             alt: "Brain Station Internship Certificate"
 
         - title: "Women Empowerment & Governance (IEEE Paper)"
           text: "Published a research paper on digitization of NGO management systems to empower women."
           image:
-            filename: "ieee-paper.jpg"
+            filename: "certificates/ieee-paper.jpg"
             alt: "IEEE Paper Certificate"
 
     design:
