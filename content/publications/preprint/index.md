@@ -1,11 +1,11 @@
 ---
-title: "An example preprint / working paper"
+title: "DB-FGA-Net: Dual Backbone Frequency Gated Attention Network for Multi-Class Classification with Grad-CAM Interpretability"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2025-10-23T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-10-23T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -16,44 +16,50 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: I present DB-FGA-Net, a double-backbone network integrating VGG16 and Xception with a Frequency-Gated Attention (FGA) Block to capture complementary local and global features for brain tumor classification. Unlike previous studies, my model achieves state-of-the-art performance without data augmentation, demonstrating robustness to variably sized datasets. For transparency, I integrated Grad-CAM to visualize tumor regions, bridging model predictions with clinical interpretability. The framework achieves 99.24% accuracy on the 7K-DS dataset for 4-class classification, and I developed a GUI for real-time use, supporting reliable clinical translation in brain tumor diagnosis.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: I propose DB-FGA-Net, an augmentation-free deep learning model for interpretable brain tumor classification, achieving state-of-the-art results with Grad-CAM visualizations.
 
 tags:
-- Large Language Models
+- Deep Learning
+- Machine Learning
+- Medical Imaging
 
 featured: true
 
 hugoblox:
   ids:
-    arxiv: 1512.04133v1
+    arxiv: 2510.20299
 
 links:
 - type: preprint
   provider: arxiv
-  id: 1512.04133v1
-- type: code
-  url: https://github.com/HugoBlox/hugo-blox-builder
-- type: slides
-  url: https://www.slideshare.net/
-- type: dataset
-  url: "#"
-- type: poster
-  url: "#"
+  id: 2510.20299
+- type: pdf
+  url: https://arxiv.org/pdf/2510.20299
+- type: html
+  url: https://arxiv.org/html/2510.20299v1
 - type: source
-  url: "#"
+  url: https://arxiv.org/src/2510.20299
+- type: code
+  url: ""
+- type: slides
+  url: ""
+- type: dataset
+  url: ""
+- type: poster
+  url: ""
 - type: video
-  url: https://youtube.com
+  url: ""
 - type: custom
-  label: Custom Link
-  url: http://example.org
+  label: DOI
+  url: https://doi.org/10.48550/arXiv.2510.20299
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/person-holding-white-ceramic-plate-with-brown-liquid-0gO3-bvhhM8)'
   focal_point: ""
   preview_only: false
 
@@ -63,7 +69,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- medical-imaging
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -73,7 +79,7 @@ projects:
 slides: ""
 ---
 
-This work is driven by the results in my [previous paper](/publications/conference-paper/) on LLMs.
+This work builds on my previous conference papers on brain tumor detection, advancing to an interpretable, augmentation-free model for clinical deployment.
 
 > [!NOTE]
 > Create your slides in Markdown - click the *Slides* button to check out the example.
