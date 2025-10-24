@@ -35,6 +35,7 @@ The program emphasized **AI, 5G, Cloud Computing, Digital Power**, and leadershi
    The **selection for the final 21 participants was based primarily on individual performance**, with approximately **70% of the marks coming from individual assessments** such as exams, interviews, and personal contributions.  
 
 ![Judges Panel](j.jpg)
+*Judges Panel*
 
 ---
 
@@ -44,9 +45,14 @@ We were assigned to teams and challenged to come up with a **tech-based startup 
 
 We brainstormed, created slides, planned the model, and presented our idea to judges. This stage evaluated **teamwork, leadership, and presentation skills**, and we were **selected as the best team**!  
 
+{{< figure src="b1.jpg" caption="Brainstorming Session" >}}
+
 ![Brainstorming Session](b1.jpg)
+*Brainstorming Session*
 ![Team Presentation to Judges (1st stage)](p1.jpg)
+*Team Presentation to Judges (1st stage)*
 ![Team Presentation to Judges (2nd stage)](p1team2.jpg)
+*Team Presentation to Judges (2nd stage)*
 
 ---
 
@@ -55,11 +61,14 @@ We brainstormed, created slides, planned the model, and presented our idea to ju
 In the second stage, the **21 finalists were reassigned** to new teams and given another project challenge.  
 
 ![With 2nd Team Members](2ndteam.jpg)
+*With 2nd Team Members*
 
 We presented our new ideas at the end of the stage, and **the top 8 teams were chosen to attend the regional round in China**. Unfortunately, I did not make it to the regional round, but the experience was **incredibly valuable**, providing insights into project management, innovation, and collaboration at a high level.  
 
 ![Workshop Session](featured.jpg)
+*Workshop Session*
 ![Teamwork Exercise](b2.jpg)
+*Teamwork Exercise*
 
 ---
 
