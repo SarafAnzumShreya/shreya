@@ -64,7 +64,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**istockphoto**](https://media.istockphoto.com/id/1074166486/photo/in-control-room-doctor-and-radiologist-discuss-diagnosis-while-watching-procedure-and.jpg?s=612x612&w=0&k=20&c=tOHpWl88p69oPKPsJMAHMwW7im6yzF3lfZT8wSJj7t8=)'
   focal_point: ''
   preview_only: false
 
