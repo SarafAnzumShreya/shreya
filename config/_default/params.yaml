@@ -61,6 +61,8 @@ features:
 
 # Assets (for favicon)
 params:
+  css:
+      - 'css/custom.css'
   assets:
     favicon: '/favicon.ico'          # Main favicon
     favicon_16x16: '/images/favicon-16x16.png'  # Optional smaller size
