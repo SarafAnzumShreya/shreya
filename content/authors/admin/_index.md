@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Saraf Anzum Shreya
-title_class: display-name-md
+title_class: display-name-sm
 
 # Name pronunciation (optional)
 name_pronunciation: ''
