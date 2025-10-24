@@ -6,23 +6,3 @@
   display: none;
 }
 
-.back-to-top{
-  position: fixed;
-  right: 1rem;
-  bottom: 1.25rem;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 44px;
-  height: 44px;
-  border-radius: 8px;
-  background: var(--color-accent, #111);
-  color: #fff;
-  box-shadow: 0 6px 18px rgba(0,0,0,0.15);
-  border: none;
-  cursor: pointer;
-  z-index: 9999;
-}
-.back-to-top[hidden]{ display: none; }
-.back-to-top svg{ display: block; transform: rotate(180deg); }
-/* Respect reduced motion: no animation required here, but if you add transitions, check prefers-reduced-motion */
