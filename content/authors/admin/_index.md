@@ -118,7 +118,7 @@ skills:
       - name: MySQL
         description: ''
         percent: 70
-        icon: database
+        icon: circle-stack
   - name: Tools
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -130,11 +130,11 @@ skills:
       - name: AutoCAD
         description: ''
         percent: 70
-        icon: tool
+        icon: wrench-screwdriver
       - name: MATLAB, Mathematica, Arduino, ESP32cam
         description: ''
         percent: 75
-        icon: chip
+        icon: cpu-chip
 
 languages:
   - name: English
@@ -164,7 +164,7 @@ awards:
     url: ''
     date: '2023-01-01'
     awarder: Cognizant
-    icon: hero/award
+    icon: hero/trophy
     summary: |
       Competed in a case competition focused on identifying and mitigating fire hazards in Bangladesh’s garment industry.
       Developed an innovative and data-driven solution, securing 1st runner-up position out of 57 participating teams.
@@ -172,7 +172,7 @@ awards:
     url: ''
     date: '2022-01-01'
     awarder: RUET
-    icon: hero/robot
+    icon: hero/user
     summary: |
       Designed and implemented an autonomous line-following robot for the ‘ETEchnovation-2022’ event, organized by the Electronics and Telecommunication Department of RUET.
       Gained hands-on experience in embedded systems, robotics, and sensor integration.
@@ -189,7 +189,7 @@ awards:
     date_start: '2022-01-01'
     date_end: '2023-12-31'
     awarder: Various
-    icon: hero/code
+    icon: hero/code-bracket
     summary: |
       Recognized for contributions to scaling laws in deep learning.
 ---
