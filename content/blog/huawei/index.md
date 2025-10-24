@@ -20,7 +20,7 @@ Being selected for the **Huawei Seeds for the Future 2025 program** was a tremen
 
 The program emphasized **AI, 5G, Cloud Computing, Digital Power**, and leadership in technology. Over **40 hours of expert-led instruction**, we were constantly challenged to develop **problem-solving, entrepreneurship, and team collaboration skills**.
 
-{{< figure src="2.jpg" caption="Group Photo with the Team" >}}
+{{< figure src="2.jpg" caption="Price Giving Ceremony" >}}
 
 ---
 
@@ -56,7 +56,7 @@ We brainstormed, created slides, planned the model, and presented our idea to ju
 
 In the second stage, the **21 finalists were reassigned** to new teams and given another project challenge.  
 
-{{< figure src="2ndteam.jpg" caption="With 2nd Team Members" >}}
+{{< figure src="2ndteam.jpg" caption="With The Team Members (2nd stage)" >}}
 
 We presented our new ideas at the end of the stage, and **the top 8 teams were chosen to attend the regional round in China**. Unfortunately, I did not make it to the regional round, but the experience was **incredibly valuable**, providing insights into project management, innovation, and collaboration at a high level.  
 
@@ -85,8 +85,6 @@ Throughout the program, we had **mentorship from Huawei professionals**, learnin
 - Rapid **idea generation, planning, and presentation** are crucial skills in tech entrepreneurship.  
 
 ---
-
-{{< figure src="2.jpg" caption="Prize Giving Ceremony" >}}
 
 ## Next Steps
 
