@@ -49,10 +49,8 @@ We brainstormed, created slides, planned the model, and presented our idea to ju
 
 ![Brainstorming Session](b1.jpg)
 *Brainstorming Session*
-![Team Presentation to Judges (1st stage)](p1.jpg)
-*Team Presentation to Judges (1st stage)*
-![Team Presentation to Judges (2nd stage)](p1team2.jpg)
-*Team Presentation to Judges (2nd stage)*
+![Team Presentation to Judges (1st stage)](p1.jpg) *Team Presentation to Judges (1st stage)*
+![Team Presentation to Judges (2nd stage)](p1team2.jpg)*Team Presentation to Judges (2nd stage)*
 
 ---
 
@@ -60,8 +58,7 @@ We brainstormed, created slides, planned the model, and presented our idea to ju
 
 In the second stage, the **21 finalists were reassigned** to new teams and given another project challenge.  
 
-![With 2nd Team Members](2ndteam.jpg)
-*With 2nd Team Members*
+![With 2nd Team Members](2ndteam.jpg)*With 2nd Team Members*
 
 We presented our new ideas at the end of the stage, and **the top 8 teams were chosen to attend the regional round in China**. Unfortunately, I did not make it to the regional round, but the experience was **incredibly valuable**, providing insights into project management, innovation, and collaboration at a high level.  
 
