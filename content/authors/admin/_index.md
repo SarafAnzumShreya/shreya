@@ -73,6 +73,14 @@ education:
     summary: |
       GPA: 5.00/5.00 
 
+  - area: Secondary School Cirtificate 
+    institution: Uttara High School & College
+    icon: ""
+    date_start: 2017-01-01
+    date_end: 2017-12-31
+    summary: |
+      GPA: 5.00/5.00 
+
 work:
   - position: Independent Artist/Graphic Designer
     company_name: Redbubble
@@ -133,6 +141,10 @@ languages:
     percent: 90
   - name: Bengali
     percent: 100
+  - name: Hindi
+    percent: 60
+  - name: Urdu
+    percent: 40
 
 # Awards.
 #   Add/remove as many awards below as you like.

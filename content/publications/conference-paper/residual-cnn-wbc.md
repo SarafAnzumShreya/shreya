@@ -1,22 +1,23 @@
 ---
-title: 'An example conference paper'
+title: 'Residual Block-Driven CNN for Accurate White Blood Cell Image Analysis and Classification'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - AR Chowdhury
+  - SH Emon
+  - MAI Siddique
   - admin
-  - Robert Ford
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - '4th author'
 
-date: '2013-07-01T00:00:00Z'
+date: '2024-01-01T00:00:00Z'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-01-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -24,16 +25,18 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *2024 27th International Conference on Computer and Information Technology (ICCIT)*
+publication_short: In *ICCIT 2024*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: I contributed to a deep learning model utilizing residual blocks within a CNN to enhance the accuracy of white blood cell image analysis and classification. Presented at ICCIT 2024, this work reflects my interest in applying machine learning to medical diagnostics.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: I contributed to a residual block-driven CNN for accurate white blood cell analysis, presented at ICCIT 2024.
 
 tags:
-  - Large Language Models
+  - Deep Learning
+  - Machine Learning
+  - Medical Imaging
 
 # Display this page in the Featured widget?
 featured: true
@@ -41,22 +44,22 @@ featured: true
 # Standard identifiers for auto-linking
 hugoblox:
   ids:
-    doi: 10.5555/123456
+    doi: 10.1109/ICCIT64611.2024.11021843
 
 # Custom links
 links:
   - type: pdf
     url: ""
   - type: code
-    url: https://github.com/HugoBlox/hugo-blox-builder
+    url: ""
   - type: dataset
-    url: https://github.com/HugoBlox/hugo-blox-builder
+    url: ""
   - type: slides
-    url: https://www.slideshare.net/
+    url: ""
   - type: source
-    url: https://github.com/HugoBlox/hugo-blox-builder
+    url: ""
   - type: video
-    url: https://youtube.com
+    url: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -71,7 +74,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - example
+  - medical-imaging
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -87,4 +90,4 @@ slides: ""
 > [!NOTE]
 > Create your slides in Markdown - click the _Slides_ button to check out the example.
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+This paper details a CNN model enhanced with residual blocks for improved white blood cell classification, contributing to my exploration of deep learning in medical image analysis.
