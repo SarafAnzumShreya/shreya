@@ -1,27 +1,32 @@
-<!-- Back Button -->
-<a href="javascript:history.back()" class="back-btn">
-  ←
-</a>
+<button id="back-to-top" class="back-to-top" aria-label="Back to top" title="Back to top" type="button" hidden>
+  <svg width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+    <path d="M12 8l6 6H6z" fill="currentColor"/>
+  </svg>
+</button>
+<script>
+(function(){
+  const btn = document.getElementById('back-to-top');
+  if(!btn) return;
+  const SHOW_AFTER = 300;
+  const prefersReduced = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
-<style>
-.back-btn {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 40px;        /* circle width */
-  height: 40px;       /* circle height */
-  border-radius: 50%; /* makes it circular */
-  border: 4px solid #8b9197; /* border color */
-  background-color: white;   /* inside color */
-  color: #8b9197;            /* arrow color */
-  text-decoration: none;
-  font-size: 24px;           /* arrow size */
-  transition: all 0.2s ease;
-}
+  function scrollTop() {
+    if (prefersReduced) window.scrollTo(0,0);
+    else window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
 
-.back-btn:hover {
-  background-color: #8b9197;
-  color: white;
-  cursor: pointer;
-}
-</style>
+  btn.addEventListener('click', scrollTop);
+  btn.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); scrollTop(); }
+  });
+
+  function updateVisibility() {
+    const visible = window.scrollY > SHOW_AFTER;
+    btn.hidden = !visible;
+    btn.setAttribute('aria-hidden', String(!visible));
+  }
+
+  document.addEventListener('scroll', updateVisibility, { passive: true });
+  updateVisibility();
+})();
+</script>
