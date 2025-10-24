@@ -54,7 +54,8 @@ interests:
   - Web Development
   - Electronics
   - Machine Learning
-  - Competitive Programming
+  - Medical Image Processing
+  - Computer Vision
 
 education:
   - area: B.Sc. in ETE
