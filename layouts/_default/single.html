@@ -1,6 +1,12 @@
 {{ define "main" }}
   {{ partial "back-button.html" . }}
-  {{ block "main_content" . }}
-    {{ partial "main" . }}
+
+  {{ if .Content }}
+    {{ .Content }}
+  {{ end }}
+
+  {{/* Keep your blocks/cards rendering here */}}
+  {{ range .Params.sections }}
+    {{ partial "functions/parse_block_v3" (dict "page" $ "block" .) }}
   {{ end }}
 {{ end }}
