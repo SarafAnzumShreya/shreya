@@ -196,6 +196,6 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-I’m Saraf Anzum Shreya, a B.Sc. student in Electronics & Telecommunication Engineering at RUET, Dhaka, Bangladesh, with a 3.41/4.00 CGPA. My research interests include deep learning, AI, and medical imaging. Since August 2020, I’ve been an independent artist on Redbubble, designing unique merchandise. 
+I’m Saraf Anzum Shreya, a B.Sc. student in Electronics & Telecommunication Engineering at RUET, with a 3.41/4.00 CGPA. My research interests include deep learning, AI, computer vision and medical imaging. Since August 2020, I’ve been an independent artist on Redbubble, designing unique merchandise. 
 
-I am passionate about music, movies, and innovative AI solutions.
+I am also passionate about music, movies, and innovative AI solutions.
