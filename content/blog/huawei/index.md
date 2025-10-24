@@ -3,7 +3,7 @@ title: 🚀 My Experience at Huawei Seeds for the Future 2025
 summary: Selected among the top 21 nationwide finalists, I participated in the Huawei Seeds for the Future program, exploring AI, digital transformation, and entrepreneurship through team projects and mentorship.
 date: 2025-06-27
 authors:
-  - Saraf Anzum Shreya
+  - admin
 tags:
   - Huawei
   - AI
