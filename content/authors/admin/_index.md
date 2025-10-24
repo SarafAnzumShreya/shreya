@@ -89,7 +89,7 @@ work:
     date_start: 2020-08-01
     date_end: ''
     summary: |2-
-      Create and design unique merchandise on a global print-on-demand marketplace.
+      I create and design unique merchandise on a global print-on-demand marketplace.
       Shop link: www.redbubble.com/people/taylor-shreya/shop
   - position: Software Attachment (Data Scrapping and Web Development)
     company_name: BrainStation-23

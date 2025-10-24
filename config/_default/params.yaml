@@ -38,14 +38,14 @@ header:
       text: 'Saraf Anzum Shreya'
 
 # Site footer
-footer:
-  copyright:
-    notice: '© {year} Saraf Anzum Shreya. All rights reserved.' # Corrected typo from Shreyal to Shreya
-    license:
-      enable: false
-      allow_derivatives: false
-      share_alike: false
-      allow_commercial: false
+# footer:
+#   copyright:
+#     notice: '© {year} Saraf Anzum Shreya. All rights reserved.' # Corrected typo from Shreyal to Shreya
+#     license:
+#       enable: false
+#       allow_derivatives: false
+#       share_alike: false
+#       allow_commercial: false
 
 # Localization
 locale:
