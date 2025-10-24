@@ -6,7 +6,7 @@ summary: "A showcase of my earned certificates and professional achievements."
 
 sections:
   - block: features
-    id: certificates
+    id: licenses-certificates
     content:
       title: "My Certificates"
       subtitle: ""
