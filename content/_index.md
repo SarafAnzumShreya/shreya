@@ -87,16 +87,16 @@ sections:
       view: card
       spacing:
         padding: [0, 0, 0, 0]
-  - block: cta-card
-    demo: false # Disabled for personal site, not a demo
-    content:
-      title: ''
-      text: ''
-      button:
-        text: ''
-        url: ''
-    design:
-      card:
-        css_class: 'bg-primary-300 dark:bg-primary-700'
-        css_style: ''
+  # - block: cta-card
+  #   demo: false # Disabled for personal site, not a demo
+  #   content:
+  #     title: ''
+  #     text: ''
+  #     button:
+  #       text: ''
+  #       url: ''
+  #   design:
+  #     card:
+  #       css_class: 'bg-primary-300 dark:bg-primary-700'
+  #       css_style: ''
 ---
