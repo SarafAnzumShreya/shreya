@@ -5,9 +5,3 @@
 .powered-by:nth-child(2) {
   display: none;
 }
-
-/* Make author name smaller */
-.author-title {
-  font-size: 1.6rem !important;
-  font-weight: 600 !important;
-}

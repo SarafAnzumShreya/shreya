@@ -72,7 +72,7 @@ sections:
       subtitle: ''
       text: ''
       page_type: blog
-      count: 5
+      count: 3
       filters:
         author: ''
         category: ''
