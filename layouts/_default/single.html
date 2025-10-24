@@ -1,8 +1,14 @@
 {{ define "main" }}
-  {{ partial "back-button.html" . }}
 
-  {{ $ := . }} {{/* define $ as page context */}}
+  {{/* Keep a reference to the page context */}}
+  {{ $page := . }}
 
+  {{/* Back button at the top */}}
+  <div style="margin-bottom: 2rem;">
+    {{ partial "back-button.html" $page }}
+  </div>
+
+  {{/* Render page content if it exists */}}
   {{ if .Content }}
     <div class="page-content">
       {{ .Content }}
@@ -12,7 +18,8 @@
   {{/* Render all sections (features, collections, etc.) */}}
   {{ if .Params.sections }}
     {{ range .Params.sections }}
-      {{ partial "functions/parse_block_v3" (dict "page" $ "block" .) }}
+      {{ partial "functions/parse_block_v3" (dict "page" $page "block" .) }}
     {{ end }}
   {{ end }}
+
 {{ end }}
