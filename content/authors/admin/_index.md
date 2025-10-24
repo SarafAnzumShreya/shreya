@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Saraf Anzum Shreya
-title_class: display-name-sm
+font-size: s
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -15,7 +15,7 @@ pronouns: she/her
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 🎓
 
 # Is this the primary user of the site?
 superuser: true
