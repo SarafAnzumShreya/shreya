@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Saraf Anzum Shreya
-font-size: s
+
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -9,6 +9,7 @@ name_pronunciation: ''
 # Full name (for SEO)
 first_name: Saraf Anzum
 last_name: Shreya
+font-size: s
 
 # Pronouns (optional)
 pronouns: she/her
