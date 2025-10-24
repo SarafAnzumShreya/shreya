@@ -6,33 +6,3 @@
   display: none;
 }
 
-/* ...existing code... */
-.page-image{
-  max-width: 980px; /* constrain wide images */
-  margin: 0 auto 1.5rem;
-}
-.page-image__img{
-  width: 100%;
-  height: auto;
-  max-height: 65vh;      /* prevent filling whole screen */
-  object-fit: contain;
-  display: block;
-  border-radius: 8px;
-  box-shadow: 0 6px 20px rgba(0,0,0,0.06);
-}
-.page-image__caption{
-  margin-top: .5rem;
-  color: var(--muted, #666);
-  font-size: .95rem;
-  text-align: center;
-}
-/* smaller screens */
-@media (max-width: 600px){
-  .page-image{ padding: 0 1rem; }
-  .page-image__img{ max-height: 50vh; }
-}
-/* respect reduced motion */
-@media (prefers-reduced-motion: reduce){
-  .page-image__img{ transition: none; }
-}
-/* ...existing code... */
