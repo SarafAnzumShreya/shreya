@@ -1,0 +1,8 @@
+{{ with .Params.image }}
+  <figure>
+    <img src="{{ .url }}" alt="{{ .caption }}">
+    {{ if .caption }}
+      <figcaption>{{ .caption }}</figcaption>
+    {{ end }}
+  </figure>
+{{ end }}
