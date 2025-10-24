@@ -42,16 +42,16 @@ links:
   url: https://arxiv.org/html/2510.20299v1
 - type: source
   url: https://arxiv.org/src/2510.20299
-- type: code
-  url: ""
-- type: slides
-  url: ""
-- type: dataset
-  url: ""
-- type: poster
-  url: ""
-- type: video
-  url: ""
+# - type: code
+#   url: ""
+# - type: slides
+#   url: ""
+# - type: dataset
+#   url: ""
+# - type: poster
+#   url: ""
+# - type: video
+#   url: ""
 - type: custom
   label: DOI
   url: https://doi.org/10.48550/arXiv.2510.20299

@@ -25,9 +25,9 @@ abstract: I present a real-time currency detection system designed to assist vis
 summary: I developed a YOLOv8-based real-time currency detection system with voice feedback for the visually impaired, submitted to arXiv on October 23, 2025.
 
 tags:
+- Computer Vision
 - Deep Learning
 - Machine Learning
-- Computer Vision
 - Accessibility
 
 featured: true
@@ -46,16 +46,16 @@ links:
   url: https://arxiv.org/html/2510.20267v1
 - type: source
   url: https://arxiv.org/src/2510.20267
-- type: code
-  url: ""
-- type: slides
-  url: ""
+# - type: code
+#   url: ""
+# - type: slides
+#   url: ""
 - type: dataset
-  url: ""
-- type: poster
-  url: ""
-- type: video
-  url: ""
+  url: "https://www.kaggle.com/datasets/anzumshreya/usd-euro-bdt-augmented"
+# - type: poster
+#   url: ""
+# - type: video
+#   url: ""
 - type: custom
   label: DOI
   url: https://doi.org/10.48550/arXiv.2510.20267
