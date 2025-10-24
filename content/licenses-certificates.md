@@ -9,16 +9,15 @@ design:
 sections:
   - block: features
     content:
-      username: admin
       title: "Licenses & Certificates"
       subtitle: ""
       text: "A visual showcase of my academic and professional certifications."
-      accomplishments:
+      items:
         - title: "Advanced Learning Algorithms"
           date_start: "2025-01-01"
           description: "DeepLearning.AI, Stanford University — Issued Jan 2025  \nCredential ID: 6T7KI3YQGJN0"
           image:
-            filename: "images/certificates/certificate2.jpg"
+            filename: "static/uploads/certificates/certificate2.jpg"
             alt: "Advanced Learning Algorithms Certificate"
           url: "https://www.coursera.org/account/accomplishments/certificate/6T7KI3YQGJN0"
 
@@ -26,7 +25,7 @@ sections:
           date_start: "2024-11-01"
           description: "DeepLearning.AI, Stanford University — Issued Nov 2024  \nCredential ID: Y9815S6QCI3W"
           image:
-            filename: "images/certificates/certificate1.jpg"
+            filename: "static/uploads/certificates/certificate1.jpg"
             alt: "Supervised Machine Learning Certificate"
           url: "https://www.coursera.org/account/accomplishments/certificate/Y9815S6QCI3W"
 
@@ -34,21 +33,21 @@ sections:
           date_start: "2025-01-01"
           description: "Selected among top 22 nationwide finalists in AI and digital transformation leadership."
           image:
-            filename: "images/certificates/huawei.jpg"
+            filename: "static/uploads/certificates/huawei.jpg"
             alt: "Huawei Seeds for the Future Certificate"
 
         - title: "Brain Station 23 Internship"
           date_start: "2023-01-01"
           description: "Completed a 2-week internship on web scraping and backend development using BeautifulSoup and Selenium."
           image:
-            filename: "images/certificates/brainstation23.jpg"
+            filename: "static/uploads/certificates/brainstation23.jpg"
             alt: "Brain Station Internship Certificate"
 
         - title: "Women Empowerment & Governance (IEEE Paper)"
           date_start: "2024-01-01"
           description: "Published a research paper on digitization of NGO management systems to empower women."
           image:
-            filename: "images/certificates/ieee-paper.jpg"
+            filename: "static/uploads/certificates/ieee-paper.jpg"
             alt: "IEEE Paper Certificate"
 
     design:
