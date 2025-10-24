@@ -9,6 +9,7 @@ design:
 sections:
   - block: features
     content:
+      username: admin
       title: "Licenses & Certificates"
       subtitle: ""
       text: "A visual showcase of my academic and professional certifications."
