@@ -5,7 +5,7 @@
 
 # Appearance
 appearance:
-  mode: system
+  mode: light
   color: indigo
 
 # SEO
@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Saraf Anzum Shreyal. All rights reserved.'
+    notice: '© {year} Saraf Anzum Shreya. All rights reserved.' # Corrected typo from Shreyal to Shreya
     license:
       enable: false
       allow_derivatives: false
@@ -58,3 +58,11 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+# Assets (for favicon)
+params:
+  assets:
+    favicon: '/favicon.ico'          # Main favicon
+    favicon_16x16: '/images/favicon-16x16.png'  # Optional smaller size
+    favicon_32x32: '/images/favicon-32x32.png'  # Optional larger size
+    apple_touch_icon: '/images/apple-touch-icon.png'  # Optional for Apple devices
