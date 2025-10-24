@@ -16,4 +16,4 @@ I designed a Reverse Vending Machine using Arduino and machine learning techniqu
 
 <!--more-->
 
-This project combines my expertise in electronics and machine learning, contributing to innovative solutions for sustainability.
+This project combines my expertise in electronics and machine learning, contributing to innovative solutions for sustainability. 

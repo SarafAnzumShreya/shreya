@@ -1,6 +1,6 @@
 ---
 title: EchoCash
-date: 2025-02-29
+date: 2025-02-28
 links:
   - type: GitHub
     url: https://github.com/SarafAnzumShreya/EchoCash
