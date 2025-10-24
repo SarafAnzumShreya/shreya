@@ -4,50 +4,51 @@ type: "landing"
 date: 2025-10-24
 
 sections:
-  - block: accomplishments
+  - block: features
     content:
-      title: Accomplishments
-      subtitle: ''
-      text: ''
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `items` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      title: "Licenses & Certificates"
+      subtitle: ""
+      text: "A visual showcase of my academic and professional certifications."
       items:
-        - title: Neural Networks and Deep Learning
-          certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          url: ''
-        - title: Blockchain Fundamentals
-          certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - title: 'Object-Oriented Programming in R'
-          certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          url: ''
+        - title: "Advanced Learning Algorithms"
+          text: "DeepLearning.AI, Stanford University — Issued Jan 2025  
+          Credential ID: 6T7KI3YQGJN0"
+          image:
+            filename: "advanced-learning-algo.jpg"
+            alt: "Advanced Learning Algorithms Certificate"
+          url: "https://www.coursera.org/account/accomplishments/certificate/6T7KI3YQGJN0"
+
+        - title: "Supervised Machine Learning: Regression and Classification"
+          text: "DeepLearning.AI, Stanford University — Issued Nov 2024  
+          Credential ID: Y9815S6QCI3W"
+          image:
+            filename: "supervised-ml.jpg"
+            alt: "Supervised Machine Learning Certificate"
+          url: "https://www.coursera.org/account/accomplishments/certificate/Y9815S6QCI3W"
+
+        - title: "Huawei Seeds for the Future 2025"
+          text: "Selected among top 22 nationwide finalists in AI and digital transformation leadership."
+          image:
+            filename: "huawei.jpg"
+            alt: "Huawei Seeds for the Future Certificate"
+
+        - title: "Brain Station 23 Internship"
+          text: "Completed a 2-week internship on web scraping and backend development using BeautifulSoup and Selenium."
+          image:
+            filename: "brainstation23.jpg"
+            alt: "Brain Station Internship Certificate"
+
+        - title: "Women Empowerment & Governance (IEEE Paper)"
+          text: "Published a research paper on digitization of NGO management systems to empower women."
+          image:
+            filename: "ieee-paper.jpg"
+            alt: "IEEE Paper Certificate"
+
     design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
+      columns: 3
+      view: card
 ---
+
 
 # summary: "A showcase of my earned certificates and professional achievements."
 
