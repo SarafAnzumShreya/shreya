@@ -100,4 +100,22 @@ sections:
   #     card:
   #       css_class: 'bg-primary-300 dark:bg-primary-700'
   #       css_style: ''
+
+  - block: resume-experience
+    content:
+      title: '💼 Experience'
+      username: admin
+      text: 'My professional and practical experiences in technology, research, and design.'
+    design:
+    view: list
+    columns: 2
+
+  - block: resume-skills
+    content:
+      title: '🛠️ Skills'
+      username: admin
+      text: 'A summary of my technical expertise, tools, and programming proficiency.'
+    design:
+      view: bar
+
 ---

@@ -102,7 +102,7 @@ work:
     summary: |
       Completed a two-week software-based attachment focused on web scraping and backend development.
       Developed a fully functional web data scraper using BeautifulSoup, Selenium, HTML, CSS, and Flask to extract and display dynamic web content in a user-friendly interface.
-      Project repository: github.com/SarafAnzumShreya/Scrapper
+      Project repository: https://github.com/SarafAnzumShreya/Scrapper
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
