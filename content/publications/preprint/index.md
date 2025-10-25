@@ -1,5 +1,5 @@
 ---
-title: "DB-FGA-Net: Dual Backbone Frequency Gated Attention Network for Multi-Class Classification with Grad-CAM Interpretability"
+title: "DB-FGA-Net: Dual Backbone Frequency Gated Attention Network for Multi-Class Brain Tumor Classification with Grad-CAM Interpretability"
 authors:
 - admin
 date: "2025-10-23T00:00:00Z"
