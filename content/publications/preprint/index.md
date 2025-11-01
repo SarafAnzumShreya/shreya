@@ -39,7 +39,7 @@ links:
 - type: pdf
   url: https://arxiv.org/pdf/2510.20299
 - type: html
-  url: https://arxiv.org/html/2510.20299v1
+  url: https://arxiv.org/html/2510.20299
 - type: source
   url: https://arxiv.org/src/2510.20299
 # - type: code
