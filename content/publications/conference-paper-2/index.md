@@ -48,8 +48,8 @@ hugoblox:
 
 # Custom links
 links:
-  # - type: pdf
-  #   url: ""
+  - type: pdf
+    url: "Residual_Block_Driven_CNN_for_Accurate_White_Blood_Cell_Image_Analysis.pdf"
   # - type: code
   #   url: ""
   # - type: dataset

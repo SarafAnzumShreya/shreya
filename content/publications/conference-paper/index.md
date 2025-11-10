@@ -48,8 +48,8 @@ hugoblox:
 
 # Custom links
 links:
-  # - type: pdf
-  #   url: ""
+  - type: pdf
+    url: "A_Hybrid_Approach_for_Accurate_Brain_Tumor_Detection_Using_Deep.pdf"
   # - type: code
   #   url: ""
   # - type: dataset
