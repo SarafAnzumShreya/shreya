@@ -3,7 +3,7 @@ title: "Provisional Certificate"
 date: 2026-08-08
 
 image:
-  filename: "provisional.pdf"
+  filename: "provisional.png"
   alt: "Provisional Certificate for Bachelor of Science in Electronics & Telecommunication Engineering from Rajshahi University of Engineering & Technology"
 
 description: "Provisional Certificate for the Bachelor of Science in Electronics & Telecommunication Engineering awarded by Rajshahi University of Engineering & Technology (RUET). CGPA: 3.50/4.00. Date of graduation: August 04, 2026. Date of issue: August 08, 2026."
