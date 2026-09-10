@@ -64,7 +64,7 @@ education:
     date_start: 2022-01-01
     date_end: 2026-12-31
     summary: |
-      CGPA: 3.47/4.00 (Completed 6 out of 8 semesters)
+      CGPA: 3.50/4.00 
       Best SGPA: 3.83/4.00 (6th semester)
 
   - area: Higher School Cirtificate 
