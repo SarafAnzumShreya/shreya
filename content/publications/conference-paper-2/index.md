@@ -84,10 +84,10 @@ projects:
 slides: ""
 ---
 
-> [!NOTE]
-> Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+# > [!NOTE]
+# > Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 
-> [!NOTE]
-> Create your slides in Markdown - click the _Slides_ button to check out the example.
+# > [!NOTE]
+# > Create your slides in Markdown - click the _Slides_ button to check out the example.
 
 This paper details a CNN model enhanced with residual blocks for improved white blood cell classification, contributing to my exploration of deep learning in medical image analysis.
