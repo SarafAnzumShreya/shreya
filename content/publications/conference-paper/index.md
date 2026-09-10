@@ -84,10 +84,10 @@ projects:
 slides: ""
 ---
 
-> [!NOTE]
-> Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+# > [!NOTE]
+# > Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 
-> [!NOTE]
-> Create your slides in Markdown - click the _Slides_ button to check out the example.
+# > [!NOTE]
+# > Create your slides in Markdown - click the _Slides_ button to check out the example.
 
 This paper explores a hybrid deep learning framework that integrates multiple techniques to improve brain tumor detection accuracy. The approach leverages convolutional neural networks (CNNs) and additional methods to address the complexities of medical imaging data, contributing to my ongoing research in machine learning applications for healthcare.
