@@ -30,7 +30,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am a B.Sc. student in Electronics & Telecommunication Engineering at Rajshahi University of Engineering & Technology (RUET), passionate about applying machine learning to real-world challenges. My focus lies in deep learning, particularly convolutional neural networks (CNNs) for medical imaging, such as brain tumor detection and white blood cell analysis, as well as assistive technologies like real-time currency detection for the visually impaired. I also explore hybrid models and digitization for societal impact.
+        I am a B.Sc. graduate in Electronics & Telecommunication Engineering at Rajshahi University of Engineering & Technology (RUET), passionate about applying machine learning to real-world challenges. My focus lies in deep learning, particularly convolutional neural networks (CNNs) for image processing, such as brain tumor detection and white blood cell analysis, as well as assistive technologies like real-time currency detection for the visually impaired. I also explore hybrid models and digitization for societal impact.
 
         Please reach out to collaborate or discuss my work! 😃
     design:
