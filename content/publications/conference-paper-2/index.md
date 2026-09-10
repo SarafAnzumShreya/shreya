@@ -84,8 +84,4 @@ projects:
 slides: ""
 ---
 
-> [!NOTE]
-> This paper details a CNN model enhanced with residual blocks for improved white blood cell classification, contributing to my exploration of deep learning in medical image analysis.
-
-
 
