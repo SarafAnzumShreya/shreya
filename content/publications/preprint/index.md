@@ -16,7 +16,7 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: I present DB-FGA-Net, a double-backbone network integrating VGG16 and Xception with a Frequency-Gated Attention (FGA) Block to capture complementary local and global features for brain tumor classification. Unlike previous studies, my model achieves state-of-the-art performance without data augmentation, demonstrating robustness to variably sized datasets. For transparency, I integrated Grad-CAM to visualize tumor regions, bridging model predictions with clinical interpretability. The framework achieves 99.24% accuracy on the 7K-DS dataset for 4-class classification, and I developed a GUI for real-time use, supporting reliable clinical translation in brain tumor diagnosis.
+abstract: Brain tumors are a challenging problem in neuro-oncology, where early and precise diagnosis is important for successful treatment. Deep learning-based brain tumor classification methods often rely on heavy data augmentation which can limit generalization and trust in clinical applications. In this paper, we propose a double-backbone network integrating VGG16 and Xception with a Frequency-Gated Attention (FGA) Block to capture complementary local and global features. Our model achieves highly competitive performance without augmentation which demonstrates robustness to variably sized and distributed datasets. For further transparency, Grad-CAM is integrated to visualize the tumor regions based on which the model is giving prediction, bridging the gap between model prediction and clinical interpretability. The proposed framework achieves 99.24% accuracy on the 7K-DS dataset for the 4-class setting, along with 98.68% and 99.85% in the 3-class and 2-class settings, respectively. On the independent 3K-DS dataset, the model generalizes with 95.77% accuracy, outperforming several baseline methods under the same experimental setting. To further support clinical usability, we developed a graphical user interface (GUI) that provides real-time classification and Grad-CAM-based tumor localization. These findings suggest that augmentation-free, interpretable, and deployable deep learning models such as DB-FGA-Net hold strong potential for reliable clinical translation in brain tumor diagnosis.
 
 # Summary. An optional shortened abstract.
 summary: I propose DB-FGA-Net, an augmentation-free deep learning model for interpretable brain tumor classification, achieving state-of-the-art results with Grad-CAM visualizations.
@@ -79,9 +79,3 @@ projects:
 slides: ""
 ---
 
-This work builds on my previous conference papers on brain tumor detection, advancing to an interpretable, augmentation-free model for clinical deployment.
-
-> [!NOTE]
-> Create your slides in Markdown - click the *Slides* button to check out the example.
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
