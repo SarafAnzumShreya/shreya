@@ -51,11 +51,12 @@ profiles:
 
 interests:
   - Deep Learning
+  - Machine Learning
+  - Image Processing
+  - Computer Vision
   - Web Development
   - Electronics
-  - Machine Learning
-  - Medical Image Processing
-  - Computer Vision
+  
 
 education:
   - area: B.Sc. in ETE
