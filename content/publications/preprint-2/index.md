@@ -83,6 +83,5 @@ projects:
 slides: ""
 ---
 
-This work builds on my previous research in machine learning for assistive technologies, such as EchoCash, advancing real-time detection for practical use.
 
 
