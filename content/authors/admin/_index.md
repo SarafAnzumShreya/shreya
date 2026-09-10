@@ -24,7 +24,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: B.Sc. Student in Electronics & Telecommunication Engineering
+role: B.Sc. graduate in Electronics & Telecommunication Engineering
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -62,20 +62,20 @@ education:
     institution: Rajshahi University of Engineering & Technology
     icon: ""
     date_start: 2022-01-01
-    date_end: 2026-12-31
+    date_end: 2026-08-04
     summary: |
       CGPA: 3.50/4.00 
       Best SGPA: 3.83/4.00 (6th semester)
 
-  - area: Higher School Cirtificate 
+  - area: Higher Secondary Certificate 
     institution: Dhaka Cantonment Girls' Public School & College
     icon: ""
-    date_start: 2020-01-01
-    date_end: 2018-01-01
+    date_start: 2018-01-01
+    date_end: 2020-01-01
     summary: |
       GPA: 5.00/5.00 
 
-  - area: Secondary School Cirtificate 
+  - area: Secondary School Certificate 
     institution: Uttara High School & College
     icon: ""
     date_start: 2017-01-01
@@ -93,7 +93,7 @@ work:
     summary: |2-
       I create and design unique merchandise on a global print-on-demand marketplace.
       Shop link: www.redbubble.com/people/taylor-shreya/shop
-  - position: Software Attachment (Data Scrapping and Web Development)
+  - position: Software Attachment (Data Scraping and Web Development)
     company_name: BrainStation-23
     company_url: ''
     icon: ''
@@ -196,6 +196,6 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-I’m Saraf Anzum Shreya, a B.Sc. student in Electronics & Telecommunication Engineering at RUET, with a 3.47/4.00 CGPA. My research interests include deep learning, AI, computer vision and medical imaging. Since August 2020, I’ve been an independent artist on Redbubble, designing unique merchandise. 
+I’m Saraf Anzum Shreya, a B.Sc. graduate in Electronics & Telecommunication Engineering at RUET, with a 3.50/4.00 CGPA. My research interests include deep learning, AI, computer vision and image processing. Since August 2020, I’ve been an independent artist on Redbubble, designing unique merchandise. 
 
-I am also passionate about music, movies, and innovative AI solutions.
+I am also passionate about music, movies and innovative AI solutions.
