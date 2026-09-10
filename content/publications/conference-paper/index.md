@@ -85,7 +85,4 @@ slides: ""
 ---
 
 
-> [!NOTE]
-> This paper explores a hybrid deep learning framework that integrates multiple techniques to improve brain tumor detection accuracy. The approach leverages convolutional neural networks (CNNs) and additional methods to address the complexities of medical imaging data, contributing to my ongoing research in machine learning applications for healthcare.
-
 
