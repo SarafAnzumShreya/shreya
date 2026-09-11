@@ -2,9 +2,9 @@
 title: Welcome to RUET
 date: 2024-02-20
 links:
-  - type: source
+  - type: GitHub
     url: https://github.com/SarafAnzumShreya/WelcomeToRUET
-  - type: website
+  - type: Live Site
     url: https://sarafanzumshreya.github.io/WelcomeToRUET/
 tags:
   - Web Development

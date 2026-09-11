@@ -2,7 +2,7 @@
 title: Web Scrapper
 date: 2024-01-15
 links:
-  - type: source
+  - type: GitHub
     url: https://github.com/SarafAnzumShreya/Scrapper
 tags:
   - Web Scraping
