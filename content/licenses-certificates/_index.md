@@ -16,5 +16,5 @@ sections:
       sort_ascending: false
     design:
       columns: 2
-      view: card
+      view: article-grid
 ---

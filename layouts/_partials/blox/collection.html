@@ -5,37 +5,42 @@
 {{ if eq ($block.design.view | default "card") "article-grid" }}
   <div class="grid gap-6 md:grid-cols-2 xl:grid-cols-3">
     {{ range $pages }}
+      {{ $item := . }}
       <article class="group flex h-full flex-col overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm transition hover:shadow-md dark:border-slate-700 dark:bg-slate-900">
-        {{ with .Params.image }}
+        {{ with $item.Params.image }}
           {{ $img := . }}
           {{ if reflect.IsMap $img }}
             {{ with $img.url }}
-              <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="h-52 w-full object-cover" />
+              <img src="{{ . | relURL }}" alt="{{ $item.Title }}" class="h-52 w-full object-cover" />
+            {{ else with $img.filename }}
+              {{ with $item.Resources.GetMatch . }}
+                <img src="{{ .RelPermalink }}" alt="{{ $item.Title }}" class="h-52 w-full object-cover" />
+              {{ end }}
             {{ end }}
           {{ else }}
-            <img src="{{ $img | relURL }}" alt="{{ $.Title }}" class="h-52 w-full object-cover" />
+            <img src="{{ $img | relURL }}" alt="{{ $item.Title }}" class="h-52 w-full object-cover" />
           {{ end }}
         {{ end }}
 
         <div class="flex flex-1 flex-col p-5">
           <h3 class="mb-2 text-xl font-semibold leading-tight text-slate-900 dark:text-white">
-            <a href="{{ .RelPermalink }}" class="hover:text-primary-600">
-              {{ .Title }}
+            <a href="{{ $item.RelPermalink }}" class="hover:text-primary-600">
+              {{ $item.Title }}
             </a>
           </h3>
 
-          {{ with .Summary }}
+          {{ with $item.Summary }}
             <p class="mb-4 line-clamp-3 text-sm text-slate-600 dark:text-slate-300">
               {{ . | plainify | truncate 180 }}
             </p>
           {{ end }}
 
           <div class="mt-auto flex flex-wrap gap-2 pt-2">
-            <a href="{{ .RelPermalink }}" class="inline-flex items-center rounded-md bg-slate-900 px-3 py-1.5 text-xs font-medium text-white no-underline transition hover:bg-slate-700 dark:bg-slate-100 dark:text-slate-900 dark:hover:bg-slate-200">
+            <a href="{{ $item.RelPermalink }}" class="inline-flex items-center rounded-md bg-slate-900 px-3 py-1.5 text-xs font-medium text-white no-underline transition hover:bg-slate-700 dark:bg-slate-100 dark:text-slate-900 dark:hover:bg-slate-200">
               Read more
             </a>
 
-            {{ with .Params.links }}
+            {{ with $item.Params.links }}
               {{ range . }}
                 {{ $label := .name | default .type | default "Link" }}
                 {{ with .url }}
