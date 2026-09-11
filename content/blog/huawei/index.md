@@ -20,6 +20,8 @@ Being selected for the **Huawei Seeds for the Future 2025 program** was a tremen
 
 The program emphasized **AI, 5G, Cloud Computing, Digital Power**, and leadership in technology. Over **40 hours of expert-led instruction**, we were constantly challenged to develop **problem-solving, entrepreneurship, and team collaboration skills**.
 
+{{< figure src="featured.jpg" caption="Huawei Seeds for the Future 2025" >}}
+
 {{< figure src="2.jpg" caption="With The Certificate" >}}
 
 ---
