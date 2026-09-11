@@ -2,9 +2,11 @@
 title: Avatar Me
 date: 2024-08-30
 links:
-  - type: GitHub
+  - name: GitHub
+    type: source
     url: https://github.com/SarafAnzumShreya/Avatar-Me
-  - type: Live Site
+  - name: Live Site
+    type: website
     url: https://sarafanzumshreya.github.io/Avatar-Me/
 tags:
   - Web Development

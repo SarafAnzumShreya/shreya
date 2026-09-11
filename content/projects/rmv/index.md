@@ -2,7 +2,8 @@
 title: Reverse Vending Machine
 date: 2023-12-31
 links:
-  - type: GitHub
+  - name: GitHub
+    type: source
     url: https://github.com/SarafAnzumShreya/RVM
 tags:
   - Electronics

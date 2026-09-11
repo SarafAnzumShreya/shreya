@@ -2,7 +2,8 @@
 title: EchoCash
 date: 2025-02-28
 links:
-  - type: GitHub
+  - name: GitHub
+    type: source
     url: https://github.com/SarafAnzumShreya/EchoCash
 tags:
   - Machine Learning
