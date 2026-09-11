@@ -13,8 +13,6 @@ image:
   caption: "Graduation celebration"
 ---
 
-{{< figure src="featured.jpg" caption="Graduation celebration" >}}
-
 ## Finally Done and Dusted
 
 After all the hardships and sleepless nights, it is finally over. I have reached the target I set for myself when I first came to RUET: graduation.
