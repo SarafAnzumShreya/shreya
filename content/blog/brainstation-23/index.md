@@ -1,7 +1,7 @@
 ---
 title: "My Attachment Experience at BrainStation-23"
 summary: A 14-day hands-on training and project internship where I worked with two classmates to build a multi-module web scraping application using Python, Flask, BeautifulSoup, Selenium, and MongoDB.
-date: 2024-12-15
+date: 2025-03-14
 authors:
   - admin
 tags:
